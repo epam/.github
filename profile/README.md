@@ -1,4 +1,4 @@
-![epam_header_image](profile/Header_Image.PNG)
+![EPAM - Innovation through Collaboration](https://github.com/epam/.github/blob/main/Header_Image.png)
 
 # Welcome
 
